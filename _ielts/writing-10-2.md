@@ -6,6 +6,8 @@ tags: ['IELTS', 'Reading']
 
 ## Tea and the Industrial Revolution
 
+site: [Tea and the Industrial Revolution](https://mini-ielts.com/428/reading/tea-and-the-industrial-revolution)
+
 > Alan Macfarlane, professor of anthropological science at King’s College, Cambridge has, like other historians, spent decades wrestling with the **enigma** of the Industrial Revolution.
 
 **enigma** /əˈnɪɡ.mə/ *noun.* 迷; 难以捉摸的人
@@ -71,3 +73,9 @@ tags: ['IELTS', 'Reading']
 **futures market** 期货市场
 
 **essence** /ˈes.əns/ *noun.* 本质
+
+## Gifted children and learning
+
+> For example, a very close positive relationship was found when children’s IQ scores were compared with their home educational **provision**.
+
+**provision** /prəˈvɪʒ.ən/ *noun.* 供给
