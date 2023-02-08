@@ -50,4 +50,5 @@ ga:
     # id: your_ga_id
     # host: your_host
 collections:
-- ielts
+    ielts:
+        output: true
