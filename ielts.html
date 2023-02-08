@@ -1,0 +1,10 @@
+---
+layout: page
+title: IELTS
+---
+
+{% for ielts in site.ielts %}
+<ul class="ielts">
+    <li><a href="{{ ielts.url }}">{{ ielts.title }}</a></li>
+</ul>
+{% endfor %}
