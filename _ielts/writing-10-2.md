@@ -121,3 +121,24 @@ Although ‘spoon-feeding’ can produce extremely high examination results, the
 > Positive emotions **facilitate** the creative aspects of earning and negative emotions inhibit it.
 
 **facilitate** /fəˈsɪl.ə.teɪt/ *verb.* 促进; 加快
+
+## Museums of fine art and their public
+
+site: [Museums of fine art and their public](https://mini-ielts.com/430/reading/museums-of-fine-art-and-their-public)
+
+> The fact that people go to the Louvre museum in Paris to see the original painting Mona Lisa when they can see a reproduction anywhere leads us to question some assumptions about the role of museums of fine art in today’s world 
+
+```
+The fact that ... leads us to question some assumptions about ... in today’s world 
+```
+
+> However, if Mona Lisa was a famous novel, few people would bother to go to a museum to read the writer’s actual **manuscript** rather than a printed reproduction.
+
+**manuscript** /ˈmæn.jə.skrɪpt/ *noun.* 手抄本
+
+> In addition, it could be argued that the practice of **interpreting** or ‘reading’ each medium follows different conventions.
+
+**interpret** /ɪnˈtɜː.prɪt/ *verb.* 解释; 理解
+
+**it could be argued that** 可以说...
+
