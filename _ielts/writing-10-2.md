@@ -76,6 +76,48 @@ site: [Tea and the Industrial Revolution](https://mini-ielts.com/428/reading/tea
 
 ## Gifted children and learning
 
+site: [Gifted children and learning](https://mini-ielts.com/429/reading/gifted-children-and-learning-)
+
 > For example, a very close positive relationship was found when children’s IQ scores were compared with their home educational **provision**.
 
 **provision** /prəˈvɪʒ.ən/ *noun.* 供给
+
+> There appears to be a **qualitative** difference in the way the **intellectually** highly able think, compared with more average-ability or older pupils, for whom external regulation by the teacher often **compensates** for lack of internal regulation.
+
+**qualitative** /ˈkwɑː.lə.teɪ.t̬ɪv/ *adjective.* 性质的
+
+**intellectually** /ˌɪn.t̬əlˈek.tʃu.ə.li/ *adverb.* 理智地
+
+**compensate** /ˈkɑːm.pən.seɪt/ *verb.* 赔偿; 补偿
+
+> Overviewing research on the thinking process of highly able
+> children, put the instructor’s problem **succinctly**.
+
+**succinctly** /səkˈsɪŋkt.li/ *adverb.* 简要地
+
+- **succinct** /səkˈsɪŋkt/ *adjective.* 简明的
+
+> **Conversely**, teachers who have a tendency to ‘overdirect’ can **diminish** their gifted pupils’ learning **autonomy**.
+
+**conversely** /kənˈvɝːs.li/ *adverb.* 相反地
+
+**diminish** /dɪˈmɪn.ɪʃ/ *verb.* 减少 `attenuate` 
+
+**autonomy** /ɑːˈtɑː.nə.mi/ *noun.* 自主
+
+- *Demonstrators* demanded immediate *autonomy* **for** their region.
+- *The* universities want *to* preserve their *autonomy* **from** central government.
+
+```
+Although ‘spoon-feeding’ can produce extremely high examination results, these are not always followed by equally impressive life successes.
+```
+
+> Such practices have been found to be particularly useful for bright children from **deprived** areas.
+
+**deprive** /dɪˈpraɪv/ *verb.* 剥夺
+
+- **a deprived area** 贫困地区
+
+> Positive emotions **facilitate** the creative aspects of earning and negative emotions inhibit it.
+
+**facilitate** /fəˈsɪl.ə.teɪt/ *verb.* 促进; 加快
