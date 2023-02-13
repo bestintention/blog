@@ -48,7 +48,7 @@ social:
 
 # Google Analytics
 ga:
-    id: G-5TZWCN5VS3
+    # id: G-5TZWCN5VS3
     # host: your_host
 collections:
     ielts:
