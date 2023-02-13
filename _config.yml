@@ -48,8 +48,10 @@ social:
 
 # Google Analytics
 ga:
-    # id: your_ga_id
+    id: G-5TZWCN5VS3
     # host: your_host
 collections:
     ielts:
+        output: true
+    talks:
         output: true
