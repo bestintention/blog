@@ -6,14 +6,13 @@ tags: ['talks']
 <section class="talks">
 {% assign talksByYear = site.talks | group_by: "year" %}
 {% for year in talksByYear %}
-    <h3>{{year | jsonify}}</h3>
+    <h3>{{year.name}}</h3>
     {% assign talksByMonth = year.items | group_by: "month" %}
     {% for month in talksByMonth %}
-    <h4>{{month | jsonify}}</h4>
+    <h4>{{month.name}}</h4>
     {% for day in month.items %}
         {{day.content | markdownify}}
     {% endfor %}
     {% endfor %}
-    <!-- <li><a href="{{ ielts.url }}">{{ ielts.title }}</a></li> -->
 {% endfor %}
 </section>
