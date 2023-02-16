@@ -1,5 +1,5 @@
 ---
-title: "Ant-Man and the Wasp: Quantumania" Is Prefab Marvel
+title: "‘Ant-Man and the Wasp: Quantumania’ Is Prefab Marvel"
 layout: post
 tags: ['reading']
 category: ['reading']
