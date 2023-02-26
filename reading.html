@@ -1,0 +1,10 @@
+---
+layout: page
+title: Reading
+tags: ['reading']
+---
+<ul class="reading">
+{% for ielts in site.reading %}
+    <li><a href="{{ ielts.url }}">{{ ielts.title }}</a></li>
+{% endfor %}
+</ul>
