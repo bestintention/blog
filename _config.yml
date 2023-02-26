@@ -25,6 +25,7 @@ nav:
     - {title: 碎碎念, description: talk, url: '/2021/05/talk'}
     - {title: IELTS, description: IELTS, url: '/ielts/'}
     - {title: Material, description: material, url: '/material/'}
+    - {title: Reading, description: reading, url: '/reading/'}
     # - {title: 关于, description: about, url: '/2019/06/about'}
     # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
