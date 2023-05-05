@@ -1,0 +1,179 @@
+# Part 1
+
+- Neighbours
+  - How often do you see your neighbours? [Why/Why not?]
+  - Do you invite your neighbours to your home? [Why/Why not?]
+  - Do you think you are a good neighbour? [Why/Why not?]
+  - Has a neighbour ever helped you? [Why/Why not?]
+- Your neighbourhood
+  - Do you like the neighbourhood you live in? [Why/Why not?]
+  - What do you do in your neighbourhood in your free time? [Why/why not?]
+  - What new things would you like to have in your neighbourhood? [Why/Why not?]
+  - Would you like to live in another neighbourhood in your town or city? [Why/Why not?]
+- Age
+  - Are you happy to be the age you are now? [Why/Why not?]
+  - When you were a child, did you think a lot about your future? [Why/Why not?] ?
+  - Do you think you have changed as you have got older? [Why/Why not?]
+  - What will be different about your life in the future? [Why]
+
+- Money
+  - When you go shopping, do you prefer to pay for things in cash or by card? [Why?]
+  - Do you ever save money to buy special things? [Why/Why not?]
+  - Would you ever take a job which had low pay? [Why/Why not?]
+  - Would winning a lot of money make a big difference to your life? [Why/Why not?]
+- Animals
+  - Are there many animals or birds where you live? [Why/Why not?]
+  - How often do you watch programmes or read articles about wild animals? [Why?]
+  - Have you ever been to a zoo or a wildlife park? [Why/Why not?]
+  - Would you like to have a job working with animals? [Why/Why not?]
+- Clothes
+  - Where do you buy most of your clothes? [Why?]
+  - How often do you buy new clothes for yourself? [Why?]
+  - How do you decide which clothes to buy? [Why?]
+  - Have the kinds of clothes you like changed in recent years? [Why?/Why not?]
+- Art
+  - Did you enjoy doing art lessons when you were a child? [Why?Why not?]
+  - Do you ever draw or paint pictures now? [Why?Why not?]
+  - When was the last time you went to an art gallery or exhibition? [Why?]
+  - What kind of pictures do you like having in your home? [Why?]
+- Names
+  - How did your parents choose your name(s)?
+  - Does your name have any special meaning?
+  - Is your name common or unusual in your country?
+  - If you could change your name, would you? [Why/Why not?]
+- Travelling to work or college
+  - How do you usually travel to work or college? [Why?]
+  - Have you always travelled to work/college in the same way? [Why/Why not?]
+  - What do you like about travelling to work/college this way?
+  - What changes would improve the way you travel to work/college? [Why?]
+- History
+  - What did you study in history lessons when you were at school?
+  - Did you enjoy studying history at school? [Why/Why not?]
+  - How often do you watch TV programmes about history now? [Why/Why not?]
+  - What period in history would you like to learn more about? [Why?]
+- Books & Reading
+  - Did you have a favourite book when you were a child? [Why/Whynot?]
+  - How much reading do you do for your work/studies? [Why/Whynot?]
+  - What kinds of books do you read for pleasure? [Why/Whynot?]
+  - Do you prefer to read a newspaper or a magazine online, or to buy a copy? [Why/Whynot?]
+- Drinks
+  - What do you like to drink with your dinner? [Why?]
+  - Do you drink a lot of water every day? Why/Why not?]
+  - Do you prefer drinking tea or coffee? [Why?]
+  - If people visit you in your home, what do you usually offer them to drink? [Why/why not?]
+- People you study/work with
+  - Who do you spend most time studying/working with?
+  - What kinds of things do you study / work on with other people?
+  - Are there times when you study/work better by yourself?
+  - Is it important to like the people you study/work with?
+- Flowers and plants
+  - Do you have a favourite flower or plant?
+  - What kinds of flowers and plants grow near where you live?
+  - Is it important to you to have flowers and plants in your home?
+  - Have you ever bought flowers for someone else?
+- Summer
+  - Is summer your favourite time of year?
+  - What do you do in summer when the weather’s very hot?
+  - Do you go on holiday every summer?
+  - Did you enjoy the summer holidays when you were at school?
+- Fast food
+  - What kinds of fast food have you tried?
+  - Do you ever use a microwave to cook food quickly?
+  - How popular are fast food restaurants where you live?
+  - Do you ever go to fast food restaurants?
+- Email
+  - What kinds of emails do you receive about your work or studies?
+  - Do you prefer to email, phone or text your friends? [Why?]
+  - Do you reply to emails and messages as soon as you receive them? [Why/Why not?]
+  - Are you happy to receive emails that are advertising things? [Why/Why not?]
+- Jewellery
+  - How often do you wear jewellery? [Why/Why not?]
+  - What type of jewellery do you like best? [Why/Why not?]
+  - When do people like to give jewellery in your country [Why?]
+  - Have you ever given jewellery to someone as a gift? [Why/Why not?]
+- Songs and singing
+  - Did you enjoy singing when you were younger? [Why?/Why not?]
+  - How often do you sing now? [Why?]
+  - Do you have a favourite song you like listening to? [Why?/Why not?]
+  - How important is singing in your culture?[Why?]
+- Food and cooking
+  - What sorts of food do you like eating most? [Why?]
+  - Who normally does the cooking in your home? [Why/Why not?] 
+  - Do you watch cookery programmes on TV? [Why/Why not?]
+  - In general, do you prefer eating out or eating at home? [Why?]
+- Friends
+  - How often do you go out with friends? [Why/Why not?]
+  - Tell me about your best friend at school.
+  - How friendly are you with your neighbours? [Why/Why not?]
+  - Which is more important to you, friends or family? [Why?]
+- Photographs
+  - What type of photos do you like taking? [Why/Why not?]
+  - What do you do with photos you take? [Why/Why not?]
+  - When you visit other places, do you take photos or buy postcards? [Why/Why not?]
+  - Do you like people taking photos of you? [Why/Why not?]
+- School
+  - Did you go to secondary/high school near to where you lived? [Why/Why not?]
+  - What did you like about your secondary/high school? [Why?]
+  - Tell me about anything you didn't like at your school.
+  - How do you think your school could be improved? [Why/Why not?]
+- Laughing
+  - What kinds of thing make you laugh?
+  - Do you like making other people laugh? [Why/Why not?]
+  - Do you think it's important for people to laugh? [Why/Why not?]
+  - Is laughing the same as feeling happy, do you think? [Why/Why not?]
+- Colour
+  - What's your favourite colour? [Why?]
+  - Do you like the same colours now as you did when you were younger? [Why / Why not?]
+  - What can you learn about a person from the colours they like?
+  - Do any colours have a special meaning in your culture?
+- Maps
+  - Do you think it's better to use a paper map or a map on your phone? [Why?]
+  - When was the last time you needed to use a map? [Why/Why not?]
+  - If you visit a new city, do you always use a map to find your way around? [Why/Why not?]
+  - In general, do you find it easy to read maps? [Why/Why not?]
+- Languages
+  - How many languages can you speak? [Why/Why not?]
+  - How useful will English be to you in your future? [Why/Why not?]
+  - What do you remember about learning languages at school? [Why/Why not?]
+  - What do you think would be the hardest language for you to learn? [Why?]
+- Health
+  - Is it important to you to eat healthy food? [Why?/Why not?]
+  - If you catch a cold, what do you do to help you feel better? [Why?]
+  - Do you pay attention to public information about health? [Why?/Why not?]
+  - What could you do to have a healthier lifestyle?
+- Music
+  - What types of music do you like to listen to? [Why?]
+  - At what times of day do you like to listen to music? [Why?]
+  - Did you learn to play a musical instrument when you were a child? [Why/Why not?]
+  - Do you think all children should learn to play a musical instrument? [Why/Why not?]
+- Musical instruments
+  - Which instrument do you like listening to most? [Why?]
+  - Have you ever learned to play a musical instrument? [Which one?]
+  - Do you think children should learn to play a musical instrument at school? [Why/Why not?]
+  - How easy would it be to learn to play an instrument without a teacher? [Why?]
+- Swimming
+  - Did you learn to swim when you were a child? [Why/Why not?]
+  - How often do you go swimming now? [Why/Why not?]
+  - What places are there for swimming where you live? [Why?]
+  - Do you think it would be more enjoyable to go swimming outdoors or at an indoor pool? [Why?]
+- Social media
+  - Which social media websites do you use?
+  - How much time do you spend on social media sites? [Why/Why not?]
+  - What kind of information about yourself have you put on social media? [Why/Why not?]
+  - Is there anything you don't like about social media? [Why?]
+- Television programmes
+  - Where do you usually watch TV programmes/shows? [Why?/Why not?]
+  - What's your favourite TV programme/show? [Why?]
+  - Are there any programmes/shows you don't like watching? [Why?/Why not?]
+  - Do you think you will watch more TV or fewer TV programmes/shows in the future? [Why?/Why not?]
+- Weekends
+- Travel
+- Games
+- Telephoning
+- Neighbours
+- Newspapers and Magazines
+- Television
+- Keeping in contact with people
+- Cold weather
+- Dancing
+- Entertainment
