@@ -4,7 +4,7 @@ layout: post
 tags: ['reading']
 category: ['reading']
 ---
-# Where’s your place in the future of work?
+> Where’s your place in the future of work?
 
 Automation anxiety isn’t new.
 
